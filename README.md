@@ -1,4 +1,5 @@
 # Van Quynh-Thi Truong, MS
+### Intro  
 Hi there! I am a biomedical data scientist specializing in computational immunology and translational biomedical informatics. Currently, I am co-mentored by [Dr. Marylyn Ritchie](https://www.med.upenn.edu/pcpm/marylyn-d-ritchie-phd.html) and [Dr. John Wherry](https://www.med.upenn.edu/wherrylab/) at the University of Pennsylvania [Genomics & Computational Biology PhD Program](https://www.med.upenn.edu/gcb/).
 
 I also serve as the liaison between the [Philadelphia STEM Equity Collective](https://www.philastemeco.org/equity-collective) and the [Penn Interdisciplinary Network for Scientists Promoting Inclusion, Retention, and Equity](https://www.med.upenn.edu/pennINSPIRE/)
