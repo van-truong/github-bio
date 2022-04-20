@@ -5,7 +5,7 @@ Hi there! I am a biomedical data scientist specializing in computational immunol
 I also serve as the liaison between the [Philadelphia STEM Equity Collective](https://www.philastemeco.org/equity-collective) and the [Penn Interdisciplinary Network for Scientists Promoting Inclusion, Retention, and Equity](https://www.med.upenn.edu/pennINSPIRE/)
 
 ### Outside of Science:
-My other interests include freelance scientific illustration, creating crowdsourced public art sculptures, and serving as the [Executive Director](https://www.villagebridges.org/our-team) of [Village Bridges](www.villagebridges.org), a social impact organization I co-founded with a team of young women from my village.
+My other interests include freelance scientific illustration, creating crowdsourced public art sculptures, rock climbing, ultimate frisbee, camping, and serving as the [Executive Director](https://www.villagebridges.org/our-team) of [Village Bridges](www.villagebridges.org), a social impact organization I co-founded with a team of young women from my village.
 
 ### Let's Keep Up With Each Other:
 [![Twitter: scientistvan](https://img.shields.io/twitter/follow/scientistvan?style=for-the-badge)](https://twitter.com/scientistvan)
