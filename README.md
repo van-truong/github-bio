@@ -11,4 +11,4 @@ My other interests include freelance scientific illustration, creating crowdsour
 [![Twitter: scientistvan](https://img.shields.io/twitter/follow/vantru0ng?style=for-the-badge)](https://twitter.com/scientistvan)
 [![Linkedin: vanqtruong](https://img.shields.io/badge/-vanqtruong-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanqtruong/)](https://www.linkedin.com/in/vanqtruong/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](scientistvan@gmail.com)
-[![Personal Website]](https://img.shields.io/badge/Personal-Website-blue))(https://www.van-truong.com)
+[![Personal Website](https://img.shields.io/badge/Personal-Website-blue)](https://www.van-truong.com)
