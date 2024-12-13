@@ -1,14 +1,5 @@
-# Van Quynh-Thi Truong, MS
+# Van Q Truong, MS
 ### Intro  
-Hi there! I am a biomedical data scientist pursuing my PhD at the University of Pennsylvania [Genomics & Computational Biology PhD Program](https://www.med.upenn.edu/gcb/), co-mentored by [Dr. Marylyn Ritchie](https://www.med.upenn.edu/pcpm/marylyn-d-ritchie-phd.html) and [Dr. John Wherry](https://www.med.upenn.edu/wherrylab/).
+Hi there! I am a data scientist current finishing up my PhD at the University of Pennsylvania [Genomics & Computational Biology PhD Program](https://www.med.upenn.edu/gcb/). 
 
-I also previously served as the liaison between the [Philadelphia STEM Equity Collective](https://www.philastemeco.org/equity-collective) and the [Penn Interdisciplinary Network for Scientists Promoting Inclusion, Retention, and Equity](https://www.med.upenn.edu/pennINSPIRE/)
-
-### Outside of Science:
-My other interests include freelance scientific illustration, creating crowdsourced public art sculptures, rock climbing, ultimate frisbee, camping, cooking, and serving as the [Executive Director](https://www.villagebridges.org/our-team) of [Village Bridges](https://www.villagebridges.org), a social impact organization I co-founded with a team of young women from my village.
-
-### Let's Keep Up With Each Other:
-[![Twitter: scientistvan](https://img.shields.io/twitter/follow/vantru0ng?style=for-the-badge)](https://twitter.com/scientistvan)
-[![Linkedin: vanqtruong](https://img.shields.io/badge/-vanqtruong-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanqtruong/)](https://www.linkedin.com/in/vanqtruong/)
-[![Gmail: scientistvan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=scientistvan@gmail.com)](scientistvan@gmail.com)
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=vectorlogozone&labelColor=blue&color=gray&link=www.van-truong.com)](www.van-truong.com)
+I also make art and do other fun things. Check out my personal website to check out the side quests: www.van-truong.com
